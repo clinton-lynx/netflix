@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  text-transform: capitalize;
+  &:focus {
+    border: none;
+    outline: none;
+  }
+}
+ul,
+li {
+  list-style-type: none;
+  list-style: none;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  background:rgba(0, 0, 0, 1);
+  color: #fff;
+  font-size: 1.6rem;
+  font-family: "Roboto";
+}
+img{
+  max-width:100%;
+}
