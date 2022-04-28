@@ -78,10 +78,11 @@
     text-transform: capitalize;
     font-size: 1.72rem;
     width: 20%;
+    min-width: 100px;
     outline: none;
     min-height: 60px;
     font-weight: 400;
-    padding: 0.4em 1.7em;
+    // padding: 0.4em 1.7em;
     margin: 0.5em auto;
     border-top-left-radius: 0;
     border-left: 1px solid #333; 
@@ -92,7 +93,7 @@
     min-height: 60px;
     width: 70%;
     font-weight: 400;
-    padding: 0.4em 13.9em 0.4em 1em;
+    // padding: 0.4em 13.9em 0.4em 1em;
     margin: 0.5em auto;
     border-top-left-radius: 0;
     border-left: 1px solid #333;
