@@ -158,6 +158,7 @@ img {
   outline: none;
   min-height: 60px;
   font-weight: 400;
+  padding: 0.4em 1.7em;
   margin: 0.5em auto;
   border-top-left-radius: 0;
   border-left: 1px solid #333;
@@ -169,6 +170,7 @@ img {
   min-height: 60px;
   width: 70%;
   font-weight: 400;
+  padding: 0.4em 13.9em 0.4em 1em;
   margin: 0.5em auto;
   border-top-left-radius: 0;
   border-left: 1px solid #333;
@@ -209,10 +211,10 @@ img {
       -ms-flex-align: center;
           align-items: center;
   color: #fff;
-  padding: 7em 4.5em;
+  /* padding: 7em 4.5em; */
   position: relative;
   margin: 0 auto;
-  padding: 50px 5%;
+  padding: 30px 1%;
 }
 
 .info__text-wrapper:nth-child(2) {
